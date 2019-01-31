@@ -33,7 +33,6 @@ public class PalindromeNumberCherck {
 	    }
 	      sc.close();
 		}
-
 	}
 
 
